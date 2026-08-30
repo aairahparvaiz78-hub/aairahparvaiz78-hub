@@ -56,145 +56,26 @@ Artificial Intelligence
 
 ---
 
-## About Me
+# GitHub Activity
 
-I'm a developer from India interested in building modern web applications
-and exploring the world of Artificial Intelligence and Machine Learning.
+<p align="center">
 
-I'm currently expanding my skills from frontend development into backend
-technologies while working on AI-focused projects.
+<img
+src="https://github-readme-stats.vercel.app/api?username=aairahparvaiz78-hub&show_icons=true&theme=tokyonight&hide_border=true"
+/>
 
-- Currently working on **AI Models**
-- Currently learning **Backend Development**
-- Interested in **AI, Machine Learning & Web Development**
-- Ask me about **Python, Java & React**
-- Building projects to learn and solve real-world problems
+</p>
+
+> If the stats image above is also broken, remove it. The public GitHub Stats service is the part that can fail independently of your README.
 
 ---
 
-# Tech Stack
-
-### Programming Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript" />
-</p>
-
-### Frontend Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,vue,tailwind" />
-</p>
-
-### Backend & Databases
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,mysql" />
-</p>
-
-### AI & Data
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" />
-</p>
-
----
-
-# GitHub Overview
+# Contribution Calendar
 
 <p align="center">
 
-<a href="https://github.com/aairahparvaiz78-hub?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-Explore%20Projects-7C83FD?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://github.com/aairahparvaiz78-hub?tab=stars">
-<img src="https://img.shields.io/badge/Stars-My%20Projects-7C83FD?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://github.com/aairahparvaiz78-hub?tab=followers">
-<img src="https://img.shields.io/badge/Followers-Connect-7C83FD?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</p>
-
-<br>
-
-<table align="center">
-<tr>
-
-<td align="center" width="220">
-
-<h3>Projects</h3>
-
-Web Development  
-AI / ML  
-Experiments
-
-</td>
-
-<td align="center" width="220">
-
-<h3>Core Skills</h3>
-
-Python  
-Java  
-React  
-JavaScript
-
-</td>
-
-<td align="center" width="220">
-
-<h3>Current Focus</h3>
-
-Backend  
-AI / ML  
-Real-World Projects
-
-</td>
-
-</tr>
-</table>
-
----
-
-# Contribution Activity
-
-<p align="center">
-  <a href="https://github.com/aairahparvaiz78-hub">
-    <img
-      src="https://ghchart.rshah.org/7C83FD/aairahparvaiz78-hub"
-      alt="Aairah Parvaiz GitHub Contribution Calendar"
-      width="95%"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/aairahparvaiz78-hub">
-    View my complete contribution history →
-  </a>
-</p>
-
----
-
-# GitHub Highlights
-
-<p align="center">
-
-<a href="https://github.com/aairahparvaiz78-hub?tab=repositories">
-<img src="https://img.shields.io/badge/OPEN%20SOURCE-Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://github.com/aairahparvaiz78-hub/AI-Study-Planner">
-<img src="https://img.shields.io/badge/FEATURED-AI%20Study%20Planner-7C83FD?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://github.com/aairahparvaiz78-hub?tab=activity">
-<img src="https://img.shields.io/badge/ACTIVITY-View%20GitHub%20Activity-7C83FD?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/aairahparvaiz78-hub">
+  <img src="https://ghchart.rshah.org/7C83FD/aairahparvaiz78-hub" alt="Aairah's GitHub Contribution Calendar" />
 </a>
 
 </p>
@@ -211,18 +92,23 @@ Real-World Projects
 <h3 align="center">AI Study Planner</h3>
 
 <p align="center">
-  <a href="https://github.com/aairahparvaiz78-hub/AI-Study-Planner">
-    <img src="https://img.shields.io/badge/VIEW%20PROJECT-7C83FD?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+
+<a href="https://github.com/aairahparvaiz78-hub/AI-Study-Planner">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-7C83FD?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </p>
 
 <p align="center">
-A modern study-planning web application designed to help students organize
-academic tasks and manage their study routine.
+A modern study-planning application designed to help students organize academic tasks and manage their study routine.
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite,javascript,css" />
+
+<img src="https://img.shields.io/badge/React-7C83FD?style=flat-square&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-7C83FD?style=flat-square&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-7C83FD?style=flat-square&logo=javascript&logoColor=white" />
+
 </p>
 
 </td>
@@ -232,19 +118,22 @@ academic tasks and manage their study routine.
 <h3 align="center">AI & Machine Learning</h3>
 
 <p align="center">
-  <a href="https://github.com/aairahparvaiz78-hub?tab=repositories">
-    <img src="https://img.shields.io/badge/VIEW%20PROJECTS-7C83FD?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+
+<a href="https://github.com/aairahparvaiz78-hub?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORIES-7C83FD?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </p>
 
 <p align="center">
-Exploring Artificial Intelligence and Machine Learning through practical
-projects, experiments and model development.
+Exploring artificial intelligence and machine learning through practical projects, experiments and model development.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-7C83FD?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-7C83FD?style=flat-square&logo=scikitlearn&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Python-7C83FD?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine%20Learning-7C83FD?style=flat-square&logo=scikitlearn&logoColor=white" />
+
 </p>
 
 </td>
@@ -254,14 +143,14 @@ projects, experiments and model development.
 
 ---
 
-# Current Focus
+# Currently Exploring
 
 <table align="center">
 <tr>
 
-<td align="center" width="210">
+<td align="center" width="200">
 
-<h3>Frontend</h3>
+### Frontend
 
 React  
 JavaScript  
@@ -270,9 +159,9 @@ Responsive Design
 
 </td>
 
-<td align="center" width="210">
+<td align="center" width="200">
 
-<h3>Backend</h3>
+### Backend
 
 Node.js  
 NestJS  
@@ -281,9 +170,9 @@ MySQL
 
 </td>
 
-<td align="center" width="210">
+<td align="center" width="200">
 
-<h3>AI / ML</h3>
+### AI / ML
 
 Python  
 Pandas  
@@ -301,51 +190,13 @@ AI Models
 
 <p align="center">
 
-<strong>Frontend Development</strong>
-<br>
-↓
-<br>
-<strong>React & Modern UI</strong>
-<br>
-↓
-<br>
-<strong>Backend Development</strong>
-<br>
-↓
-<br>
-<strong>APIs & Databases</strong>
-<br>
-↓
-<br>
-<strong>Artificial Intelligence</strong>
-<br>
-↓
-<br>
-<strong>Machine Learning</strong>
-<br>
-↓
-<br>
-<strong>Real-World Projects</strong>
-
-</p>
-
----
-
-# GitHub Profile
-
-<p align="center">
-
-<a href="https://github.com/aairahparvaiz78-hub?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-Explore-7C83FD?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://github.com/aairahparvaiz78-hub?tab=commits">
-<img src="https://img.shields.io/badge/Commits-View%20Activity-7C83FD?style=for-the-badge&logo=git&logoColor=white" />
-</a>
-
-<a href="https://github.com/aairahparvaiz78-hub?tab=stars">
-<img src="https://img.shields.io/badge/Stars-Explore-7C83FD?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<b>Frontend</b>
+&nbsp; → &nbsp;
+<b>Backend</b>
+&nbsp; → &nbsp;
+<b>AI / ML</b>
+&nbsp; → &nbsp;
+<b>Real-World Projects</b>
 
 </p>
 
@@ -360,7 +211,7 @@ AI Models
 </a>
 
 <a href="mailto:aairahparvaiz78@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-7C83FD?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-7C83FD?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://github.com/aairahparvaiz78-hub">
@@ -372,9 +223,5 @@ AI Models
 <br>
 
 <p align="center">
-  <i>Building · Learning · Improving</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C83FD,50:6C63FF,100:4F46E5&height=120&section=footer" />
+  <i>Building. Learning. Improving.</i>
 </p>
