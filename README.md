@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aairah Parvaiz</h1>
+<h1 align="center">Hola , I'm Aairah Parvaiz</h1>
 
 <p align="center">
   <strong>Frontend Developer · AI & ML Enthusiast · Backend Learner</strong>
