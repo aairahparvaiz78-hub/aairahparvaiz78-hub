@@ -1,269 +1,137 @@
-<!-- ======================= HEADER ======================= -->
+<h1 align="center">Aairah Parvaiz</h1>
 
-<h1 align="center">
-  Hi 👋, I'm Aairah Parvaiz
-</h1>
-
-<h3 align="center">
-  💻 Frontend Developer | 🤖 AI Enthusiast | 🌱 Backend Learner
-</h3>
+<p align="center">
+  <b>Frontend Developer · AI Enthusiast · Backend Learner</b>
+</p>
 
 <p align="center">
   <a href="https://github.com/aairahparvaiz78-hub">
-    <img src="https://komarev.com/ghpvc/?username=aairahparvaiz78-hub&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+    <img src="https://komarev.com/ghpvc/?username=aairahparvaiz78-hub&label=Profile%20Views&color=6c63ff&style=flat-square" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Frontend+Developer;AI+%26+Machine+Learning+Enthusiast;Learning+Backend+Development;Building+Projects+%26+Exploring+Technology" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Frontend+Developer;AI+%26+Machine+Learning+Enthusiast;Learning+Backend+Development;Building+Projects+and+Learning+Every+Day" />
 </p>
 
+---
 
-<!-- ======================= ABOUT ME ======================= -->
+## About Me
 
-## 👩‍💻 About Me
+I am a passionate developer from India interested in building modern, useful, and visually appealing applications.
 
-- 🔭 Currently working on **AI Models**
-- 🌱 Currently learning **Backend Development**
-- 💻 Interested in **Frontend Development & AI**
-- 💬 Ask me about **Python, Java, React**
-- 🚀 Always experimenting with new technologies
-- ⚡ Fun fact: **I'm lazy, but my code isn't 😎**
-- 📫 Reach me at **aairahparvaiz78@gmail.com**
+Currently, I am exploring the intersection of **frontend development, backend technologies, and artificial intelligence** while continuously improving my programming skills.
 
+- Currently working on **AI Models**
+- Currently learning **Backend Development**
+- Interested in **Frontend Development, AI & Machine Learning**
+- Comfortable with **Python, Java, React and modern web technologies**
+- Always learning, experimenting, and building
 
-<!-- ======================= CONNECT ======================= -->
+---
 
-## 🌐 Connect With Me
+## Tech Stack
+
+### Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript" />
+</p>
+
+### Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,tailwind" />
+</p>
+
+### Backend & Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,mysql" />
+</p>
+
+### AI & Data
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48"/>
+</p>
+
+---
+
+## Featured Projects
+
+### AI Study Planner
+
+A web application designed to help students organize their academic tasks and study schedules.
+
+**Tech:** React · Vite · JavaScript
+
+[View Repository](https://github.com/aairahparvaiz78-hub/AI-Study-Planner)
+
+---
+
+### AI & Machine Learning
+
+Currently working on AI-focused projects and exploring machine learning concepts, model development, and practical applications.
+
+[View My Repositories](https://github.com/aairahparvaiz78-hub?tab=repositories)
+
+---
+
+## GitHub Analytics
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/aairah-parvaiz-212705363/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:aairahparvaiz78@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/aairahparvaiz78-hub">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aairahparvaiz78-hub&show_icons=true&hide_border=true&theme=transparent&title_color=6c63ff&icon_color=6c63ff&text_color=808080" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aairahparvaiz78-hub&layout=compact&hide_border=true&theme=transparent&title_color=6c63ff&text_color=808080" />
 </p>
 
+---
 
-<!-- ======================= TECH STACK ======================= -->
-
-## 🛠️ Languages & Tools
-
-### 💻 Programming Languages
+## Contribution Activity
 
 <p align="center">
-
-<a href="https://www.python.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
-</a>
-
-<a href="https://www.java.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/>
-</a>
-
-<a href="https://isocpp.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/>
-</a>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aairahparvaiz78-hub&bg_color=ffffff00&color=6c63ff&line=6c63ff&point=6c63ff&area=true&hide_border=true" />
 </p>
 
+---
 
-### 🎨 Frontend Development
+## Contribution Streak
 
 <p align="center">
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45"/>
-</a>
-
-<a href="https://www.w3.org/Style/CSS/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45"/>
-</a>
-
-<a href="https://react.dev/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45"/>
-</a>
-
-<a href="https://vuejs.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="45" height="45"/>
-</a>
-
-<a href="https://tailwindcss.com/">
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45"/>
-</a>
-
+  <img src="https://streak-stats.demolab.com?user=aairahparvaiz78-hub&theme=transparent&hide_border=true&ring=6c63ff&fire=6c63ff&currStreakLabel=6c63ff" />
 </p>
 
+---
 
-### ⚙️ Backend & Database
+## GitHub Achievements
 
 <p align="center">
-
-<a href="https://nodejs.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45"/>
-</a>
-
-<a href="https://nestjs.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="45" height="45"/>
-</a>
-
-<a href="https://www.mysql.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45"/>
-</a>
-
-<a href="https://www.microsoft.com/en-us/sql-server">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45"/>
-</a>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=aairahparvaiz78-hub&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" />
 </p>
 
+---
 
-### 🤖 AI & Data
-
-<p align="center">
-
-<a href="https://pandas.pydata.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45"/>
-</a>
-
-<a href="https://scikit-learn.org/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45"/>
-</a>
-
-</p>
-
-
-<!-- ======================= GITHUB ANALYTICS ======================= -->
-
-## 📊 GitHub Analytics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=aairahparvaiz78-hub&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aairahparvaiz78-hub&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</p>
-
-
-<!-- ======================= STREAK ======================= -->
-
-## 🔥 Contribution Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=aairahparvaiz78-hub&theme=tokyonight&hide_border=true" />
-
-</p>
-
-
-<!-- ======================= CONTRIBUTION GRAPH ======================= -->
-
-## 📈 Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aairahparvaiz78-hub&theme=tokyo-night&hide_border=true&area=true" />
-
-</p>
-
-
-<!-- ======================= PROFILE SUMMARY ======================= -->
-
-## 📌 GitHub Profile Summary
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aairahparvaiz78-hub&theme=tokyonight" />
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aairahparvaiz78-hub&theme=tokyonight" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aairahparvaiz78-hub&theme=tokyonight" />
-
-</p>
-
-
-<!-- ======================= TROPHIES ======================= -->
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aairahparvaiz78-hub&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
-
-</p>
-
-
-<!-- ======================= FEATURED PROJECTS ======================= -->
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-
-<td width="50%">
-
-<h3 align="center">🤖 AI Model</h3>
-
-<p align="center">
-  <a href="https://github.com/aairahparvaiz78-hub">
-    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-An AI-focused project exploring machine learning and intelligent systems.
-</p>
-
-</td>
-
-<td width="50%">
-
-<h3 align="center">📚 AI Study Planner</h3>
-
-<p align="center">
-  <a href="https://github.com/aairahparvaiz78-hub/AI-Study-Planner">
-    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-A modern study-planning web application designed to help students organize and manage their studies.
-</p>
-
-</td>
-
-</tr>
-</table>
-
-
-<!-- ======================= CURRENT FOCUS ======================= -->
-
-## 🎯 Current Focus
+## What I'm Currently Learning
 
 ```text
 Frontend Development
-        ↓
-React & Modern UI
-        ↓
-Backend Development
-        ↓
-AI / Machine Learning
-        ↓
-Building Real-World Projects
+        │
+        ├── React
+        ├── Modern UI
+        └── Responsive Design
+                │
+                ▼
+        Backend Development
+                │
+                ├── Node.js
+                ├── APIs
+                └── Databases
+                │
+                ▼
+        Artificial Intelligence
+                │
+                ├── Machine Learning
+                ├── AI Models
+                └── Data Processing
