@@ -1,24 +1,58 @@
-<h1 align="center">Hi 👋, I'm Aairah Parvaiz</h1>
+# GitHub Overview
 
 <p align="center">
-  <strong>Frontend Developer · AI & ML Enthusiast · Backend Learner</strong>
+
+<a href="https://github.com/aairahparvaiz78-hub?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-View%20Projects-7C83FD?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://github.com/aairahparvaiz78-hub?tab=stars">
+<img src="https://img.shields.io/badge/Stars-Explore%20My%20Work-7C83FD?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://github.com/aairahparvaiz78-hub?tab=followers">
+<img src="https://img.shields.io/badge/Followers-Connect-7C83FD?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </p>
 
-<p align="center">
-  <a href="https://github.com/aairahparvaiz78-hub">
-    <img src="https://img.shields.io/badge/GitHub-Aairah%20Parvaiz-7C83FD?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/aairah-parvaiz-212705363/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-7C83FD?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:aairahparvaiz78@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-7C83FD?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=7C83FD&center=true&vCenter=true&width=700&lines=Frontend+Developer;AI+%26+Machine+Learning+Enthusiast;Backend+Development+Learner;Building+Projects+%7C+Learning+%7C+Growing" />
-</p>
+<table align="center">
+<tr>
+
+<td align="center" width="220">
+
+### Projects
+
+Building web applications,
+AI experiments and
+practical projects.
+
+</td>
+
+<td align="center" width="220">
+
+### Technologies
+
+Python · Java · React  
+JavaScript · Node.js  
+MySQL · Machine Learning
+
+</td>
+
+<td align="center" width="220">
+
+### Focus
+
+Frontend Development  
+Backend Development  
+Artificial Intelligence
+
+</td>
+
+</tr>
+</table>
 
 ---
 
