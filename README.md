@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aairah Parvaiz</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=21&duration=3000&pause=1000&color=7C83FD&center=true&vCenter=true&width=700&lines=Frontend+Developer;AI+%26+Machine+Learning+Enthusiast;Backend+Development+Learner;Building+Projects+%7C+Learning+%7C+Growing" />
+  <b>Frontend Developer · AI & Machine Learning Enthusiast · Backend Learner</b>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=7C83FD&center=true&vCenter=true&width=700&lines=Frontend+Developer;AI+%26+Machine+Learning+Enthusiast;Backend+Development+Learner;Building+Projects+%7C+Learning+%7C+Growing" />
 </p>
 
 <p align="center">
@@ -66,8 +70,8 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45" />
 </p>
 
 ---
@@ -76,13 +80,12 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=aairahparvaiz78-hub&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12"
-    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=aairahparvaiz78-hub&show_icons=true&theme=tokyonight&hide_border=true"
+    width="48%"
   />
-
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aairahparvaiz78-hub&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12"
-    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aairahparvaiz78-hub&layout=compact&theme=tokyonight&hide_border=true"
+    width="48%"
   />
 </p>
 
@@ -92,7 +95,7 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=aairahparvaiz78-hub&theme=tokyonight&hide_border=true&border_radius=12"
+    src="https://streak-stats.demolab.com/?user=aairahparvaiz78-hub&theme=tokyonight&hide_border=true"
     width="70%"
   />
 </p>
@@ -106,4 +109,156 @@
     src="https://github-readme-activity-graph.vercel.app/graph?username=aairahparvaiz78-hub&theme=tokyo-night&hide_border=true&area=true"
     width="95%"
   />
+</p>
+
+---
+
+# GitHub Achievements
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=aairahparvaiz78-hub&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=10"
+  />
+</p>
+
+---
+
+# Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">AI Study Planner</h3>
+
+<p align="center">
+  <a href="https://github.com/aairahparvaiz78-hub/AI-Study-Planner">
+    <img src="https://img.shields.io/badge/VIEW%20PROJECT-7C83FD?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  A study-planning web application designed to help students organize academic tasks and manage their study routine.
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vite,js,css" />
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">AI & Machine Learning</h3>
+
+<p align="center">
+  <a href="https://github.com/aairahparvaiz78-hub?tab=repositories">
+    <img src="https://img.shields.io/badge/MY%20REPOSITORIES-7C83FD?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  Exploring AI and machine learning through practical projects, experiments and model development.
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# Current Focus
+
+<table align="center">
+<tr>
+
+<td align="center" width="220">
+
+### Frontend
+
+React  
+Modern UI  
+Responsive Design
+
+</td>
+
+<td align="center" width="220">
+
+### Backend
+
+Node.js  
+APIs  
+Databases
+
+</td>
+
+<td align="center" width="220">
+
+### Artificial Intelligence
+
+Python  
+Machine Learning  
+AI Models
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# Development Journey
+
+<p align="center">
+
+Frontend Development  
+↓  
+React & Modern UI  
+↓  
+Backend Development  
+↓  
+APIs & Databases  
+↓  
+Artificial Intelligence  
+↓  
+Machine Learning  
+↓  
+Real-World Projects
+
+</p>
+
+---
+
+# Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/aairah-parvaiz-212705363/">
+  <img src="https://img.shields.io/badge/LinkedIn-7C83FD?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:aairahparvaiz78@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-7C83FD?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/aairahparvaiz78-hub">
+  <img src="https://img.shields.io/badge/GitHub-7C83FD?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
+
+<br>
+
+<p align="center">
+  <i>Building. Learning. Improving.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C83FD,50:6C63FF,100:4F46E5&height=120&section=footer" />
 </p>
