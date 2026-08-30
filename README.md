@@ -1,60 +1,52 @@
 <h1 align="center">Hi 👋, I'm Aairah Parvaiz</h1>
 
 <p align="center">
-  <b>Frontend Developer · AI & Machine Learning Enthusiast · Backend Learner</b>
+  <strong>Frontend Developer · AI & ML Enthusiast · Backend Learner</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/aairahparvaiz78-hub">
+    <img src="https://img.shields.io/badge/GitHub-Aairah%20Parvaiz-7C83FD?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/aairah-parvaiz-212705363/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-7C83FD?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:aairahparvaiz78@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-7C83FD?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=7C83FD&center=true&vCenter=true&width=700&lines=Frontend+Developer;AI+%26+Machine+Learning+Enthusiast;Backend+Development+Learner;Building+Projects+%7C+Learning+%7C+Growing" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/aairahparvaiz78-hub">
-    <img src="https://komarev.com/ghpvc/?username=aairahparvaiz78-hub&label=PROFILE+VIEWS&color=7C83FD&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/aairahparvaiz78-hub?tab=followers">
-    <img src="https://img.shields.io/github/followers/aairahparvaiz78-hub?label=FOLLOWERS&style=for-the-badge&color=7C83FD" />
-  </a>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aairahparvaiz78-hub&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
-</p>
-
 ---
 
 ## About Me
 
-<p align="center">
-  <i>
-    Frontend developer exploring AI, machine learning and backend development.
-    <br>
-    I enjoy turning ideas into practical projects and continuously learning new technologies.
-  </i>
-</p>
+I'm a developer from India interested in building modern web applications
+and exploring the world of Artificial Intelligence and Machine Learning.
 
-<br>
+I'm currently expanding my skills from frontend development into backend
+technologies while working on AI-focused projects.
 
 - Currently working on **AI Models**
 - Currently learning **Backend Development**
 - Interested in **AI, Machine Learning & Web Development**
 - Ask me about **Python, Java & React**
-- Building projects and experimenting with new technologies
-- Based in **India**
+- Building projects to learn and solve real-world problems
 
 ---
 
 # Tech Stack
 
-### Languages
+### Programming Languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript" />
 </p>
 
-### Frontend
+### Frontend Development
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,react,vue,tailwind" />
@@ -70,55 +62,107 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" />
 </p>
 
 ---
 
-# GitHub Analytics
+# GitHub Overview
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=aairahparvaiz78-hub&show_icons=true&theme=tokyonight&hide_border=true"
-    width="48%"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aairahparvaiz78-hub&layout=compact&theme=tokyonight&hide_border=true"
-    width="48%"
-  />
+
+<a href="https://github.com/aairahparvaiz78-hub?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-Explore%20Projects-7C83FD?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://github.com/aairahparvaiz78-hub?tab=stars">
+<img src="https://img.shields.io/badge/Stars-My%20Projects-7C83FD?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://github.com/aairahparvaiz78-hub?tab=followers">
+<img src="https://img.shields.io/badge/Followers-Connect-7C83FD?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </p>
 
----
+<br>
 
-# Contribution Streak
+<table align="center">
+<tr>
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=aairahparvaiz78-hub&theme=tokyonight&hide_border=true"
-    width="70%"
-  />
-</p>
+<td align="center" width="220">
+
+<h3>Projects</h3>
+
+Web Development  
+AI / ML  
+Experiments
+
+</td>
+
+<td align="center" width="220">
+
+<h3>Core Skills</h3>
+
+Python  
+Java  
+React  
+JavaScript
+
+</td>
+
+<td align="center" width="220">
+
+<h3>Current Focus</h3>
+
+Backend  
+AI / ML  
+Real-World Projects
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 # Contribution Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=aairahparvaiz78-hub&theme=tokyo-night&hide_border=true&area=true"
-    width="95%"
-  />
+  <a href="https://github.com/aairahparvaiz78-hub">
+    <img
+      src="https://ghchart.rshah.org/7C83FD/aairahparvaiz78-hub"
+      alt="Aairah Parvaiz GitHub Contribution Calendar"
+      width="95%"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/aairahparvaiz78-hub">
+    View my complete contribution history →
+  </a>
 </p>
 
 ---
 
-# GitHub Achievements
+# GitHub Highlights
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=aairahparvaiz78-hub&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=10"
-  />
+
+<a href="https://github.com/aairahparvaiz78-hub?tab=repositories">
+<img src="https://img.shields.io/badge/OPEN%20SOURCE-Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://github.com/aairahparvaiz78-hub/AI-Study-Planner">
+<img src="https://img.shields.io/badge/FEATURED-AI%20Study%20Planner-7C83FD?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://github.com/aairahparvaiz78-hub?tab=activity">
+<img src="https://img.shields.io/badge/ACTIVITY-View%20GitHub%20Activity-7C83FD?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </p>
 
 ---
@@ -139,11 +183,12 @@
 </p>
 
 <p align="center">
-  A study-planning web application designed to help students organize academic tasks and manage their study routine.
+A modern study-planning web application designed to help students organize
+academic tasks and manage their study routine.
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite,js,css" />
+  <img src="https://skillicons.dev/icons?i=react,vite,javascript,css" />
 </p>
 
 </td>
@@ -154,16 +199,18 @@
 
 <p align="center">
   <a href="https://github.com/aairahparvaiz78-hub?tab=repositories">
-    <img src="https://img.shields.io/badge/MY%20REPOSITORIES-7C83FD?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/VIEW%20PROJECTS-7C83FD?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  Exploring AI and machine learning through practical projects, experiments and model development.
+Exploring Artificial Intelligence and Machine Learning through practical
+projects, experiments and model development.
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://img.shields.io/badge/Python-7C83FD?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-7C83FD?style=flat-square&logo=scikitlearn&logoColor=white" />
 </p>
 
 </td>
@@ -178,32 +225,35 @@
 <table align="center">
 <tr>
 
-<td align="center" width="220">
+<td align="center" width="210">
 
-### Frontend
+<h3>Frontend</h3>
 
 React  
+JavaScript  
 Modern UI  
 Responsive Design
 
 </td>
 
-<td align="center" width="220">
+<td align="center" width="210">
 
-### Backend
+<h3>Backend</h3>
 
 Node.js  
+NestJS  
 APIs  
-Databases
+MySQL
 
 </td>
 
-<td align="center" width="220">
+<td align="center" width="210">
 
-### Artificial Intelligence
+<h3>AI / ML</h3>
 
 Python  
-Machine Learning  
+Pandas  
+Scikit-learn  
 AI Models
 
 </td>
@@ -217,19 +267,51 @@ AI Models
 
 <p align="center">
 
-Frontend Development  
-↓  
-React & Modern UI  
-↓  
-Backend Development  
-↓  
-APIs & Databases  
-↓  
-Artificial Intelligence  
-↓  
-Machine Learning  
-↓  
-Real-World Projects
+<strong>Frontend Development</strong>
+<br>
+↓
+<br>
+<strong>React & Modern UI</strong>
+<br>
+↓
+<br>
+<strong>Backend Development</strong>
+<br>
+↓
+<br>
+<strong>APIs & Databases</strong>
+<br>
+↓
+<br>
+<strong>Artificial Intelligence</strong>
+<br>
+↓
+<br>
+<strong>Machine Learning</strong>
+<br>
+↓
+<br>
+<strong>Real-World Projects</strong>
+
+</p>
+
+---
+
+# GitHub Profile
+
+<p align="center">
+
+<a href="https://github.com/aairahparvaiz78-hub?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-Explore-7C83FD?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://github.com/aairahparvaiz78-hub?tab=commits">
+<img src="https://img.shields.io/badge/Commits-View%20Activity-7C83FD?style=for-the-badge&logo=git&logoColor=white" />
+</a>
+
+<a href="https://github.com/aairahparvaiz78-hub?tab=stars">
+<img src="https://img.shields.io/badge/Stars-Explore-7C83FD?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </p>
 
@@ -240,15 +322,15 @@ Real-World Projects
 <p align="center">
 
 <a href="https://www.linkedin.com/in/aairah-parvaiz-212705363/">
-  <img src="https://img.shields.io/badge/LinkedIn-7C83FD?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-7C83FD?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:aairahparvaiz78@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-7C83FD?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-7C83FD?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://github.com/aairahparvaiz78-hub">
-  <img src="https://img.shields.io/badge/GitHub-7C83FD?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-7C83FD?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </p>
@@ -256,7 +338,7 @@ Real-World Projects
 <br>
 
 <p align="center">
-  <i>Building. Learning. Improving.</i>
+  <i>Building · Learning · Improving</i>
 </p>
 
 <p align="center">
